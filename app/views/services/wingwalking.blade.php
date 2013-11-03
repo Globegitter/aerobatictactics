@@ -6,7 +6,7 @@ Wing Walking
 
 @section('title')
 <h3 class="booking">Wing Walking</h3>
-<!-- <a href="{{ URL::to('/booking') }}" class="btn btn-danger booking" type="button">Book Online</a> -->
+<a href="{{ URL::to('/order') }}" class="btn btn-danger booking" type="button">Book Online</a> 
 @stop
 @section('inner_content')
 
